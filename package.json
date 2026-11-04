@@ -4,11 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "tsx watch src/server.ts",
-  "build": "tsc",
-  "start": "node dist/server.js",
-  "db:init": "tsx src/database/init.ts",
-  "db:seed": "tsx src/database/seed.ts"
+    
   },
   "keywords": [],
   "author": "",
